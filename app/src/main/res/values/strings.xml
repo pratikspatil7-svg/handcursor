@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandCursor</string>
+    <string name="accessibility_service_description">Lets HandCursor tap the screen wherever your tracked hand is pointing.</string>
+</resources>
